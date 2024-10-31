@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+  @apply text-[25px] md:text-[31px] text-[#3d3d3d];
+}
